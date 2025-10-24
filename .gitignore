@@ -1,0 +1,16 @@
+# Unity自动生成目录
+/Library/
+/Temp/
+/obj/
+/Logs/
+
+# 用户配置（每人本地不同）
+/UserSettings/
+
+# 打包中间产物
+/Build/
+
+# 其他临时文件
+*.sdf
+*.suo
+*.csproj.user

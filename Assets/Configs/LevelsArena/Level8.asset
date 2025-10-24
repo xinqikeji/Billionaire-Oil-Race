@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa490cbc9964cff429de1df695e7af3d, type: 3}
+  m_Name: Level8
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  prefabsTransports:
+  - {fileID: 1605586719366116221, guid: 3a673f1edc2e08544b458c325e78dc8d, type: 3}
+  - {fileID: 1605586719366116221, guid: 3a673f1edc2e08544b458c325e78dc8d, type: 3}
+  - {fileID: 1605586719366116221, guid: 3a673f1edc2e08544b458c325e78dc8d, type: 3}
+  - {fileID: 1605586719366116221, guid: 3a673f1edc2e08544b458c325e78dc8d, type: 3}
+  - {fileID: 1605586719366116221, guid: 3a673f1edc2e08544b458c325e78dc8d, type: 3}
+  - {fileID: 3816064594093352031, guid: e0c6c63816980f047a9ad9ec2ea8e881, type: 3}
+  - {fileID: 3816064594093352031, guid: e0c6c63816980f047a9ad9ec2ea8e881, type: 3}
+  - {fileID: 2669800421370289078, guid: ded145aaf9f533147b595b19a0da639b, type: 3}
+  prefabsRoads:
+  - {fileID: 8829244782186119199, guid: 0d1df305ec3a33b4891af99467a7c18a, type: 3}
+  - {fileID: 8829244782186119199, guid: 0d1df305ec3a33b4891af99467a7c18a, type: 3}
+  - {fileID: 8829244782186119199, guid: 0d1df305ec3a33b4891af99467a7c18a, type: 3}
+  - {fileID: 8829244782186119199, guid: 0d1df305ec3a33b4891af99467a7c18a, type: 3}
+  - {fileID: 8829244782186119199, guid: 0d1df305ec3a33b4891af99467a7c18a, type: 3}
+  - {fileID: 7018745763030869604, guid: d2d8a4dc6c9f2174eaf41cfdc1eff468, type: 3}
+  - {fileID: 7018745763030869604, guid: d2d8a4dc6c9f2174eaf41cfdc1eff468, type: 3}
+  - {fileID: 8829244782186119199, guid: 0d1df305ec3a33b4891af99467a7c18a, type: 3}

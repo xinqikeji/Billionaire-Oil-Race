@@ -1,0 +1,23 @@
+{
+    "appid": "ttdf9ca9214092324007",
+    "projectname": "燃料先锋",
+    "unity": {
+        "build": {
+            "webgl": "D:\\Unity Project\\Billionaire Oil Race\\tt-minigame\\webgl_package-20251005_024119.zip",
+            "native": {
+                "il2cpp": "",
+                "apk": "",
+                "fullApk": ""
+            },
+            "instantGame": ""
+        },
+        "publishType": "2",
+        "starkSdkVersion": "Without StarkSDK",
+        "unityToolsVersion": null,
+        "unityEngineVersion": "2021.3.14f1c1",
+        "arch": "both"
+    },
+    "setting": {
+        "urlCheck": true
+    }
+}

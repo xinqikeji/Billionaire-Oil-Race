@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity Project\\Billionaire Oil Race\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1639AA-F303-E445-706B-3B8C3A5323B4}|Assembly-CSharp.csproj|d:\\unity project\\billionaire oil race\\assets\\ttsdk\\bytegameadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1639AA-F303-E445-706B-3B8C3A5323B4}|Assembly-CSharp.csproj|solutionrelative:assets\\ttsdk\\bytegameadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1639AA-F303-E445-706B-3B8C3A5323B4}|Assembly-CSharp.csproj|d:\\unity project\\billionaire oil race\\assets\\scripts\\cor\\loadgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1639AA-F303-E445-706B-3B8C3A5323B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cor\\loadgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1639AA-F303-E445-706B-3B8C3A5323B4}|Assembly-CSharp.csproj|D:\\Unity Project\\Billionaire Oil Race\\assets\\scripts\\cor\\camera\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1639AA-F303-E445-706B-3B8C3A5323B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cor\\camera\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1639AA-F303-E445-706B-3B8C3A5323B4}|Assembly-CSharp.csproj|D:\\Unity Project\\Billionaire Oil Race\\assets\\scripts\\cor\\player\\playername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1639AA-F303-E445-706B-3B8C3A5323B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cor\\player\\playername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1639AA-F303-E445-706B-3B8C3A5323B4}|Assembly-CSharp.csproj|D:\\Unity Project\\Billionaire Oil Race\\assets\\scripts\\cor\\levelcontroller\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1639AA-F303-E445-706B-3B8C3A5323B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cor\\levelcontroller\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1639AA-F303-E445-706B-3B8C3A5323B4}|Assembly-CSharp.csproj|D:\\Unity Project\\Billionaire Oil Race\\assets\\ttsdk\\cebianlan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1639AA-F303-E445-706B-3B8C3A5323B4}|Assembly-CSharp.csproj|solutionrelative:assets\\ttsdk\\cebianlan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1639AA-F303-E445-706B-3B8C3A5323B4}|Assembly-CSharp.csproj|D:\\Unity Project\\Billionaire Oil Race\\assets\\scripts\\cor\\characters\\charactercanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1639AA-F303-E445-706B-3B8C3A5323B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cor\\characters\\charactercanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5C543B-38B4-7AFA-1C73-5C1F077B784B}|ToonyColorsPro.Runtime.csproj|D:\\Unity Project\\Billionaire Oil Race\\assets\\content\\shaders\\jmo assets\\toony colors pro\\scripts\\tcp2_planarreflection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5C543B-38B4-7AFA-1C73-5C1F077B784B}|ToonyColorsPro.Runtime.csproj|solutionrelative:assets\\content\\shaders\\jmo assets\\toony colors pro\\scripts\\tcp2_planarreflection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FBF0779-CD7F-6C54-5908-637F324F34CD}|KinoBloom.Runtime.csproj|D:\\Unity Project\\Billionaire Oil Race\\assets\\content\\shaders\\jmo assets\\toony colors pro\\demo tcp2\\common demo assets\\kino bloom\\bloom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FBF0779-CD7F-6C54-5908-637F324F34CD}|KinoBloom.Runtime.csproj|solutionrelative:assets\\content\\shaders\\jmo assets\\toony colors pro\\demo tcp2\\common demo assets\\kino bloom\\bloom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1639AA-F303-E445-706B-3B8C3A5323B4}|Assembly-CSharp.csproj|D:\\Unity Project\\Billionaire Oil Race\\assets\\content\\shaders\\liquidvolumepro\\scripts\\liquidvolume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1639AA-F303-E445-706B-3B8C3A5323B4}|Assembly-CSharp.csproj|solutionrelative:assets\\content\\shaders\\liquidvolumepro\\scripts\\liquidvolume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1639AA-F303-E445-706B-3B8C3A5323B4}|Assembly-CSharp.csproj|D:\\Unity Project\\Billionaire Oil Race\\assets\\scripts\\cor\\namechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1639AA-F303-E445-706B-3B8C3A5323B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cor\\namechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1639AA-F303-E445-706B-3B8C3A5323B4}|Assembly-CSharp.csproj|D:\\Unity Project\\Billionaire Oil Race\\assets\\scripts\\cor\\ui\\shopcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1639AA-F303-E445-706B-3B8C3A5323B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cor\\ui\\shopcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1639AA-F303-E445-706B-3B8C3A5323B4}|Assembly-CSharp.csproj|D:\\Unity Project\\Billionaire Oil Race\\assets\\scripts\\cor\\ui\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1639AA-F303-E445-706B-3B8C3A5323B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cor\\ui\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1639AA-F303-E445-706B-3B8C3A5323B4}|Assembly-CSharp.csproj|D:\\Unity Project\\Billionaire Oil Race\\assets\\scripts\\cor\\ui\\buttonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1639AA-F303-E445-706B-3B8C3A5323B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cor\\ui\\buttonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85A8107-A1E5-8A1E-8B6E-93EB67B0BDBC}|Assembly-CSharp-firstpass.csproj|D:\\Unity Project\\Billionaire Oil Race\\assets\\plugins\\tools\\easy save 3\\scripts\\types\\unity types\\es3type_rendertexture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F85A8107-A1E5-8A1E-8B6E-93EB67B0BDBC}|Assembly-CSharp-firstpass.csproj|solutionrelative:assets\\plugins\\tools\\easy save 3\\scripts\\types\\unity types\\es3type_rendertexture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoadGame.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Billionaire Oil Race\\Assets\\Scripts\\Cor\\LoadGame.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cor\\LoadGame.cs",
+              "ToolTip": "D:\\Unity Project\\Billionaire Oil Race\\Assets\\Scripts\\Cor\\LoadGame.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cor\\LoadGame.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAgwFEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T18:19:50.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TCP2_PlanarReflection.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Billionaire Oil Race\\Assets\\Content\\Shaders\\JMO Assets\\Toony Colors Pro\\Scripts\\TCP2_PlanarReflection.cs",
+              "RelativeDocumentMoniker": "Assets\\Content\\Shaders\\JMO Assets\\Toony Colors Pro\\Scripts\\TCP2_PlanarReflection.cs",
+              "ToolTip": "D:\\Unity Project\\Billionaire Oil Race\\Assets\\Content\\Shaders\\JMO Assets\\Toony Colors Pro\\Scripts\\TCP2_PlanarReflection.cs",
+              "RelativeToolTip": "Assets\\Content\\Shaders\\JMO Assets\\Toony Colors Pro\\Scripts\\TCP2_PlanarReflection.cs",
+              "ViewState": "AgIAAJcBAAAAAAAAAAAlwKIBAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:12:16.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LiquidVolume.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Billionaire Oil Race\\Assets\\Content\\Shaders\\LiquidVolumePro\\Scripts\\LiquidVolume.cs",
+              "RelativeDocumentMoniker": "Assets\\Content\\Shaders\\LiquidVolumePro\\Scripts\\LiquidVolume.cs",
+              "ToolTip": "D:\\Unity Project\\Billionaire Oil Race\\Assets\\Content\\Shaders\\LiquidVolumePro\\Scripts\\LiquidVolume.cs",
+              "RelativeToolTip": "Assets\\Content\\Shaders\\LiquidVolumePro\\Scripts\\LiquidVolume.cs",
+              "ViewState": "AgIAAJALAAAAAAAAAAAlwKULAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:12:07.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bloom.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Billionaire Oil Race\\Assets\\Content\\Shaders\\JMO Assets\\Toony Colors Pro\\Demo TCP2\\Common Demo Assets\\Kino Bloom\\Bloom.cs",
+              "RelativeDocumentMoniker": "Assets\\Content\\Shaders\\JMO Assets\\Toony Colors Pro\\Demo TCP2\\Common Demo Assets\\Kino Bloom\\Bloom.cs",
+              "ToolTip": "D:\\Unity Project\\Billionaire Oil Race\\Assets\\Content\\Shaders\\JMO Assets\\Toony Colors Pro\\Demo TCP2\\Common Demo Assets\\Kino Bloom\\Bloom.cs",
+              "RelativeToolTip": "Assets\\Content\\Shaders\\JMO Assets\\Toony Colors Pro\\Demo TCP2\\Common Demo Assets\\Kino Bloom\\Bloom.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAlwMIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:06:10.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Billionaire Oil Race\\Assets\\Scripts\\Cor\\Camera\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cor\\Camera\\CameraController.cs",
+              "ToolTip": "D:\\Unity Project\\Billionaire Oil Race\\Assets\\Scripts\\Cor\\Camera\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cor\\Camera\\CameraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:05:35.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerName.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Billionaire Oil Race\\Assets\\Scripts\\Cor\\Player\\PlayerName.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cor\\Player\\PlayerName.cs",
+              "ToolTip": "D:\\Unity Project\\Billionaire Oil Race\\Assets\\Scripts\\Cor\\Player\\PlayerName.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cor\\Player\\PlayerName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T01:19:52.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LevelController.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Billionaire Oil Race\\Assets\\Scripts\\Cor\\LevelController\\LevelController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cor\\LevelController\\LevelController.cs",
+              "ToolTip": "D:\\Unity Project\\Billionaire Oil Race\\Assets\\Scripts\\Cor\\LevelController\\LevelController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cor\\LevelController\\LevelController.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAA6wGwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T01:15:27.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "cebianlan.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Billionaire Oil Race\\Assets\\TTSDK\\cebianlan.cs",
+              "RelativeDocumentMoniker": "Assets\\TTSDK\\cebianlan.cs",
+              "ToolTip": "D:\\Unity Project\\Billionaire Oil Race\\Assets\\TTSDK\\cebianlan.cs",
+              "RelativeToolTip": "Assets\\TTSDK\\cebianlan.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAkwCUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T05:24:23.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CharacterCanvas.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Billionaire Oil Race\\Assets\\Scripts\\Cor\\Characters\\CharacterCanvas.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cor\\Characters\\CharacterCanvas.cs",
+              "ToolTip": "D:\\Unity Project\\Billionaire Oil Race\\Assets\\Scripts\\Cor\\Characters\\CharacterCanvas.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cor\\Characters\\CharacterCanvas.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T03:42:53.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ByteGameAdManager.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Billionaire Oil Race\\Assets\\TTSDK\\ByteGameAdManager.cs",
+              "RelativeDocumentMoniker": "Assets\\TTSDK\\ByteGameAdManager.cs",
+              "ToolTip": "D:\\Unity Project\\Billionaire Oil Race\\Assets\\TTSDK\\ByteGameAdManager.cs",
+              "RelativeToolTip": "Assets\\TTSDK\\ByteGameAdManager.cs",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAiwAEBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T07:40:24.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ES3Type_RenderTexture.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Billionaire Oil Race\\Assets\\Plugins\\Tools\\Easy Save 3\\Scripts\\Types\\Unity Types\\ES3Type_RenderTexture.cs",
+              "RelativeDocumentMoniker": "Assets\\Plugins\\Tools\\Easy Save 3\\Scripts\\Types\\Unity Types\\ES3Type_RenderTexture.cs",
+              "ToolTip": "D:\\Unity Project\\Billionaire Oil Race\\Assets\\Plugins\\Tools\\Easy Save 3\\Scripts\\Types\\Unity Types\\ES3Type_RenderTexture.cs",
+              "RelativeToolTip": "Assets\\Plugins\\Tools\\Easy Save 3\\Scripts\\Types\\Unity Types\\ES3Type_RenderTexture.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAD4vz0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:05:51.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NameChanger.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Billionaire Oil Race\\Assets\\Scripts\\Cor\\NameChanger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cor\\NameChanger.cs",
+              "ToolTip": "D:\\Unity Project\\Billionaire Oil Race\\Assets\\Scripts\\Cor\\NameChanger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cor\\NameChanger.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T08:41:09.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShopControl.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Billionaire Oil Race\\Assets\\Scripts\\Cor\\UI\\ShopControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cor\\UI\\ShopControl.cs",
+              "ToolTip": "D:\\Unity Project\\Billionaire Oil Race\\Assets\\Scripts\\Cor\\UI\\ShopControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cor\\UI\\ShopControl.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T08:07:12.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Splash.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Billionaire Oil Race\\Assets\\Scripts\\Cor\\UI\\Splash.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cor\\UI\\Splash.cs",
+              "ToolTip": "D:\\Unity Project\\Billionaire Oil Race\\Assets\\Scripts\\Cor\\UI\\Splash.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cor\\UI\\Splash.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T07:57:32.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ButtonManager.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Billionaire Oil Race\\Assets\\Scripts\\Cor\\UI\\ButtonManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cor\\UI\\ButtonManager.cs",
+              "ToolTip": "D:\\Unity Project\\Billionaire Oil Race\\Assets\\Scripts\\Cor\\UI\\ButtonManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cor\\UI\\ButtonManager.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAUwEsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T07:31:23.154Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
